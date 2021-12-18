@@ -24,8 +24,8 @@ Here I include the papers for novel view synthesis with **a single input image**
 - `[CVPR 2020]` SynSin: End-to-end View Synthesis from a Single Image [[paper]](https://arxiv.org/pdf/1912.08804.pdf) [[code]](https://github.com/facebookresearch/synsin) [[project page]](https://www.robots.ox.ac.uk/~ow/synsin.html) :cloud: 
 - `[CVPR 2020]` 3D Photography using Context-aware Layered Depth Inpainting [[paper]](https://arxiv.org/pdf/2004.04727.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting) [[project page]](https://shihmengli.github.io/3D-Photo-Inpainting/) :leaves:
 - `[Trans. Graph. 2020]` One Shot 3D Photography [[paper]](https://arxiv.org/pdf/2008.12298.pdf) [[code]](https://github.com/facebookresearch/one_shot_3d_photography) [[project page]](https://facebookresearch.github.io/one_shot_3d_photography/) :leaves: :gem:
-- `[Trans. Graph. 2019]` 3D Ken Burns Effect from a Single Image. [[paper]](https://arxiv.org/pdf/1909.05483.pdf) [[code]](https://github.com/sniklaus/3d-ken-burns) :cloud:
-- `[SIGGRAPH Posters 2011]` Layered Photo Pop-Up. [[poster]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-poster.pdf) [[abstract]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-abstract.pdf) [[project page]](https://richardt.name/publications/photopopup/)
+- `[Trans. Graph. 2019]` 3D Ken Burns Effect from a Single Image [[paper]](https://arxiv.org/pdf/1909.05483.pdf) [[code]](https://github.com/sniklaus/3d-ken-burns) :cloud:
+- `[SIGGRAPH Posters 2011]` Layered Photo Pop-Up [[poster]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-poster.pdf) [[abstract]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-abstract.pdf) [[project page]](https://richardt.name/publications/photopopup/)
 
 ## Papers List 2
 Some other interesting papers for novel view synthesis or cinemagraph.
@@ -36,4 +36,4 @@ Some other interesting papers for novel view synthesis or cinemagraph.
 - `[CVPR 2021]` Animating Pictures with Eulerian Motion Fields [[paper]](https://eulerian.cs.washington.edu/animating_pictures_2020.pdf) [[project page]](https://eulerian.cs.washington.edu/)
 - `[SIGGRAPH 2021]` Endless Loops: Detecting and Animating Periodic Patterns in Still Images [[paper]](https://storage.googleapis.com/ltx-public-images/Endless_Loops__Detecting_and_animating_periodic_patterns_in_still_images.pdf) [[project page]](https://pub.res.lightricks.com/endless-loops/)
 - `[SIGGRAPH Asia 2019]` Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis [[paper]](https://arxiv.org/pdf/1910.07192.pdf) [[code]](https://github.com/endo-yuki-t/Animating-Landscape) [[project page]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
-- `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning. [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)
+- `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)

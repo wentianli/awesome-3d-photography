@@ -1,4 +1,4 @@
-# awesome-3d-photography
+# awesome-3d-photography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of 3D photography / cinemagraph.
 
 This list is non-exhaustive. Feel free to pull requests or create issues to add papers.

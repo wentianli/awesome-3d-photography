@@ -46,6 +46,7 @@ Animating landscape: running water, moving clouds, etc.
 - `[ECCV 2020]` DeepLandscape: Adversarial Modeling of Landscape Videos [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf) [[code]](https://github.com/saic-mdal/deep-landscape) [[project page]](https://saic-mdal.github.io/deep-landscape/)
 - `[ECCV 2020]` DTVNet: Dynamic Time-lapse Video Generation via Single Still Image [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf) [[code]](https://github.com/zhangzjn/dtvnet)
 - `[SIGGRAPH Asia 2019]` Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis [[paper]](https://arxiv.org/pdf/1910.07192.pdf) [[code]](https://github.com/endo-yuki-t/Animating-Landscape) [[project page]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
+- `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 ## Some Other Papers
 Some other interesting papers for novel view synthesis or cinemagraph.
@@ -55,4 +56,5 @@ Some other interesting papers for novel view synthesis or cinemagraph.
 - `[ICCV 2021]` Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[paper]](https://arxiv.org/pdf/2104.00677.pdf) [[code]](https://github.com/ajayjain/DietNeRF) [[project page]](https://www.ajayj.com/dietnerf) :taxi:
 - `[CVPR 2021]` Stochastic Image-to-Video Synthesis Using cINNs [[paper]](https://arxiv.org/pdf/2105.04551.pdf) [[code]](https://github.com/CompVis/image2video-synthesis-using-cINNs) [[project page]](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 - `[SIGGRAPH 2021]` Endless Loops: Detecting and Animating Periodic Patterns in Still Images [[paper]](https://storage.googleapis.com/ltx-public-images/Endless_Loops__Detecting_and_animating_periodic_patterns_in_still_images.pdf) [[project page]](https://pub.res.lightricks.com/endless-loops/)
+- `[CVPR 2018]` MoCoGAN: Decomposing Motion and Content for Video Generation [[paper]](https://arxiv.org/pdf/1707.04993.pdf) [[code]](https://github.com/sergeytulyakov/mocogan)
 - `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)

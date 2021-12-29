@@ -32,7 +32,7 @@ Here I include the papers for novel view synthesis with **a single input image**
 - `[ECCV 2018]` Layer-structured 3D Scene Inference via View Synthesis [[paper]](https://arxiv.org/pdf/1807.10264.pdf) [[code]](https://github.com/google/layered-scene-inference) [[project page]](https://shubhtuls.github.io/lsi/) :leaves:
 - `[SIGGRAPH Posters 2011]` Layered Photo Pop-Up [[poster]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-poster.pdf) [[abstract]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-abstract.pdf) [[project page]](https://richardt.name/publications/photopopup/)
 
-## Binocula-Input Novel View Synthesis
+## Binocular-Input Novel View Synthesis
 Not a complete list.
 - `[ICCV 2019]` Extreme View Synthesis [[paper]](https://arxiv.org/pdf/1812.04777) [[code]](https://github.com/NVlabs/extreme-view-synth)
 - `[CVPR 2019]` Pushing the Boundaries of View Extrapolation with Multiplane Images [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdf) :airplane:

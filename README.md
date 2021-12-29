@@ -13,6 +13,7 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 
 ## 3D Photography from a Single Image
 Here I include the papers for novel view synthesis with **a single input image** based on **3D geometry**. 
+- `[arXiv 2021]` Efficient Geometry-aware 3D Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/2112.07945.pdf) [[code]](https://github.com/NVlabs/eg3d) [[project page]](https://matthew-a-chan.github.io/EG3D/)
 - `[arXiv 2021]` 3D Photo Stylization: Learning to Generate Stylized Novel Views from a Single Image [[paper]](https://arxiv.org/pdf/2112.00169.pdf) [[code]](https://github.com/fmu2/3d_photo_stylization) [[project page]](http://pages.cs.wisc.edu/~fmu/style3d/) :cloud:
 - `[ICCV 2021]` Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2012.09855.pdf) [[code]](https://github.com/google-research/google-research/tree/master/infinite_nature) [[project page]](https://infinite-nature.github.io/) :gem:
 - `[ICCV 2021]` MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis [[paper]](https://arxiv.org/pdf/2103.14910.pdf) [[code]](https://github.com/vincentfung13/MINE) [[project page]](https://vincentfung13.github.io/projects/mine/) :airplane: :taxi:
@@ -39,7 +40,11 @@ Not a complete list.
 
 ## Landscape Animation
 Animating landscape: running water, moving clouds, etc.
+- `[arXiv 2021]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf)
 - `[CVPR 2021]` Animating Pictures with Eulerian Motion Fields [[paper]](https://eulerian.cs.washington.edu/animating_pictures_2020.pdf) [[project page]](https://eulerian.cs.washington.edu/)
+- `[MultiMedia 2021]` Learning Fine-Grained Motion Embedding for Landscape Animation [[paper]](https://arxiv.org/pdf/2109.02216.pdf)
+- `[ECCV 2020]` DeepLandscape: Adversarial Modeling of Landscape Videos [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf) [[code]](https://github.com/saic-mdal/deep-landscape) [[project page]](https://saic-mdal.github.io/deep-landscape/)
+- `[ECCV 2020]` DTVNet: Dynamic Time-lapse Video Generation via Single Still Image [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf) [[code]](https://github.com/zhangzjn/dtvnet)
 - `[SIGGRAPH Asia 2019]` Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis [[paper]](https://arxiv.org/pdf/1910.07192.pdf) [[code]](https://github.com/endo-yuki-t/Animating-Landscape) [[project page]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
 
 ## Some Other Papers
@@ -48,5 +53,6 @@ Some other interesting papers for novel view synthesis or cinemagraph.
 - `[ICCV 2021]` iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis [[paper]](https://arxiv.org/pdf/2107.02790.pdf) [[code]](https://github.com/CompVis/ipoke) [[project page]](https://compvis.github.io/ipoke/)
 - `[ICCV 2021]` Learning to Stylize Novel Views [[paper]](https://arxiv.org/pdf/2105.13509.pdf) [[code]](https://github.com/hhsinping/stylescene) [[project page]](https://hhsinping.github.io/3d_scene_stylization/) :cloud:
 - `[ICCV 2021]` Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[paper]](https://arxiv.org/pdf/2104.00677.pdf) [[code]](https://github.com/ajayjain/DietNeRF) [[project page]](https://www.ajayj.com/dietnerf) :taxi:
+- `[CVPR 2021]` Stochastic Image-to-Video Synthesis Using cINNs [[paper]](https://arxiv.org/pdf/2105.04551.pdf) [[code]](https://github.com/CompVis/image2video-synthesis-using-cINNs) [[project page]](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 - `[SIGGRAPH 2021]` Endless Loops: Detecting and Animating Periodic Patterns in Still Images [[paper]](https://storage.googleapis.com/ltx-public-images/Endless_Loops__Detecting_and_animating_periodic_patterns_in_still_images.pdf) [[project page]](https://pub.res.lightricks.com/endless-loops/)
 - `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)

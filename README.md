@@ -50,6 +50,7 @@ Animating landscape: running water, moving clouds, etc.
 
 ## Some Other Papers
 Some other interesting papers for novel view synthesis or cinemagraph.
+- `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)
 - `[ICCV 2021]` Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper]](https://arxiv.org/pdf/2104.07652.pdf) [[code]](https://github.com/CompVis/geometry-free-view-synthesis) [[project page]](https://compvis.github.io/geometry-free-view-synthesis/)
 - `[ICCV 2021]` iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis [[paper]](https://arxiv.org/pdf/2107.02790.pdf) [[code]](https://github.com/CompVis/ipoke) [[project page]](https://compvis.github.io/ipoke/)
 - `[ICCV 2021]` Learning to Stylize Novel Views [[paper]](https://arxiv.org/pdf/2105.13509.pdf) [[code]](https://github.com/hhsinping/stylescene) [[project page]](https://hhsinping.github.io/3d_scene_stylization/) :cloud:

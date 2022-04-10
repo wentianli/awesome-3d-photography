@@ -34,6 +34,7 @@ Here I include the papers for novel view synthesis with **a single input image**
 
 ## Binocular-Input Novel View Synthesis
 Not a complete list.
+- `[CVPR 2022]` Stereo Magnification with Multi-Layer Images [[paper]](https://arxiv.org/pdf/2201.05023.pdf) [[code]](https://github.com/SamsungLabs/StereoLayers) [[project page]](https://samsunglabs.github.io/StereoLayers/) :airplane:
 - `[ICCV 2019]` Extreme View Synthesis [[paper]](https://arxiv.org/pdf/1812.04777) [[code]](https://github.com/NVlabs/extreme-view-synth)
 - `[CVPR 2019]` Pushing the Boundaries of View Extrapolation with Multiplane Images [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdf) :airplane:
 - `[SIGGRAPH 2018]` Stereo Magnification: Learning View Synthesis using Multiplane Images [[paper]](https://dl.acm.org/doi/pdf/10.1145/3197517.3201323) [[code]](https://github.com/google/stereo-magnification) [[project page]](https://tinghuiz.github.io/projects/mpi/) :airplane:

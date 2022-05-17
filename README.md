@@ -34,6 +34,7 @@ Here I include the papers for novel view synthesis with **a single input image**
 
 ## Binocular-Input Novel View Synthesis
 Not a complete list.
+- `[CVPR 2022]` 3D Moments from Near-Duplicate Photos [[paper]](https://3d-moments.github.io/static/pdfs/3d_moments.pdf) [[project page]](https://3d-moments.github.io/) :leaves::cloud:
 - `[CVPR 2022]` Stereo Magnification with Multi-Layer Images [[paper]](https://arxiv.org/pdf/2201.05023.pdf) [[code]](https://github.com/SamsungLabs/StereoLayers) [[project page]](https://samsunglabs.github.io/StereoLayers/) :airplane::gem:
 - `[ICCV 2019]` Extreme View Synthesis [[paper]](https://arxiv.org/pdf/1812.04777) [[code]](https://github.com/NVlabs/extreme-view-synth)
 - `[CVPR 2019]` Pushing the Boundaries of View Extrapolation with Multiplane Images [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdf) :airplane:
@@ -52,6 +53,7 @@ Animating landscape: running water, moving clouds, etc.
 
 ## Some Other Papers
 Some other interesting papers for novel view synthesis or cinemagraph.
+- `[arXiv 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
 - `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)
 - `[ICCV 2021]` Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper]](https://arxiv.org/pdf/2104.07652.pdf) [[code]](https://github.com/CompVis/geometry-free-view-synthesis) [[project page]](https://compvis.github.io/geometry-free-view-synthesis/)
 - `[ICCV 2021]` iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis [[paper]](https://arxiv.org/pdf/2107.02790.pdf) [[code]](https://github.com/CompVis/ipoke) [[project page]](https://compvis.github.io/ipoke/)

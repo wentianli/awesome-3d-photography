@@ -15,7 +15,7 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 Here I include the papers for novel view synthesis with **a single input image** based on **3D geometry**. 
 - `[SIGGRAPH 2022]` Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images [[paper]](https://arxiv.org/pdf/2205.11733.pdf) [[code]](https://github.com/yxuhan/AdaMPI) [[project page]](https://yxuhan.github.io/AdaMPI/) :airplane:
 - `[arXiv 2021]` Efficient Geometry-aware 3D Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/2112.07945.pdf) [[code]](https://github.com/NVlabs/eg3d) [[project page]](https://matthew-a-chan.github.io/EG3D/)
-- `[arXiv 2021]` 3D Photo Stylization: Learning to Generate Stylized Novel Views from a Single Image [[paper]](https://arxiv.org/pdf/2112.00169.pdf) [[code]](https://github.com/fmu2/3d_photo_stylization) [[project page]](http://pages.cs.wisc.edu/~fmu/style3d/) :cloud:
+- `[CVPR 2022]` 3D Photo Stylization: Learning to Generate Stylized Novel Views from a Single Image [[paper]](https://arxiv.org/pdf/2112.00169.pdf) [[code]](https://github.com/fmu2/3d_photo_stylization) [[project page]](http://pages.cs.wisc.edu/~fmu/style3d/) :cloud:
 - `[ICCV 2021]` Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2012.09855.pdf) [[code]](https://github.com/google-research/google-research/tree/master/infinite_nature) [[project page]](https://infinite-nature.github.io/) :gem:
 - `[ICCV 2021]` MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis [[paper]](https://arxiv.org/pdf/2103.14910.pdf) [[code]](https://github.com/vincentfung13/MINE) [[project page]](https://vincentfung13.github.io/projects/mine/) :airplane: :taxi:
 - `[ICCV 2021]` PixelSynth: Generating a 3D-Consistent Experience from a Single Image [[paper]](https://arxiv.org/pdf/2108.05892.pdf) [[code]](https://github.com/crockwell/pixelsynth) [[project page]](https://crockwell.github.io/pixelsynth/) :cloud:
@@ -43,7 +43,7 @@ Not a complete list.
 
 ## Landscape Animation
 Animating landscape: running water, moving clouds, etc.
-- `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://simulatingfluids.github.io/)
+- `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
 - `[CVPR 2022]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf) [[project page]](https://controllable-cinemagraphs.github.io/)
 - `[CVPR 2021]` Animating Pictures with Eulerian Motion Fields [[paper]](https://eulerian.cs.washington.edu/animating_pictures_2020.pdf) [[project page]](https://eulerian.cs.washington.edu/)
 - `[MultiMedia 2021]` Learning Fine-Grained Motion Embedding for Landscape Animation [[paper]](https://arxiv.org/pdf/2109.02216.pdf)

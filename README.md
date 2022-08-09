@@ -12,7 +12,8 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 * :space_invader: Voxel
 
 ## 3D Photography from a Single Image
-Here I include the papers for novel view synthesis with **a single input image** based on **3D geometry**. 
+Here I include the papers for novel view synthesis with **a single input image** based on **3D geometry**.
+- `[ECCV 2022]` InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [[paper]](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf) [[project page]](https://infinite-nature-zero.github.io/)
 - `[SIGGRAPH 2022]` Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images [[paper]](https://arxiv.org/pdf/2205.11733.pdf) [[code]](https://github.com/yxuhan/AdaMPI) [[project page]](https://yxuhan.github.io/AdaMPI/) :airplane:
 - `[arXiv 2021]` Efficient Geometry-aware 3D Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/2112.07945.pdf) [[code]](https://github.com/NVlabs/eg3d) [[project page]](https://matthew-a-chan.github.io/EG3D/)
 - `[CVPR 2022]` 3D Photo Stylization: Learning to Generate Stylized Novel Views from a Single Image [[paper]](https://arxiv.org/pdf/2112.00169.pdf) [[code]](https://github.com/fmu2/3d_photo_stylization) [[project page]](http://pages.cs.wisc.edu/~fmu/style3d/) :cloud:

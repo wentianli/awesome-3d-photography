@@ -45,8 +45,11 @@ Not a complete list.
 
 ## Landscape Animation
 Animating landscape: running water, moving clouds, etc.
+- `[arXiv 2022]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
+- `[arXiv 2022]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
 - `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
 - `[CVPR 2022]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf) [[project page]](https://controllable-cinemagraphs.github.io/)
+- `[CVPR 2022]` StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 [[paper]](https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf) [[code]](https://github.com/universome/stylegan-v) [[project page]](https://universome.github.io/stylegan-v)
 - `[CVPR 2021]` Animating Pictures with Eulerian Motion Fields [[paper]](https://eulerian.cs.washington.edu/animating_pictures_2020.pdf) [[project page]](https://eulerian.cs.washington.edu/)
 - `[MultiMedia 2021]` Learning Fine-Grained Motion Embedding for Landscape Animation [[paper]](https://arxiv.org/pdf/2109.02216.pdf)
 - `[ECCV 2020]` DeepLandscape: Adversarial Modeling of Landscape Videos [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf) [[code]](https://github.com/saic-mdal/deep-landscape) [[project page]](https://saic-mdal.github.io/deep-landscape/)

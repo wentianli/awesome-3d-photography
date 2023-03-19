@@ -35,6 +35,11 @@ Here I include the papers for novel view synthesis with **a single input image**
 - `[ECCV 2018]` Layer-structured 3D Scene Inference via View Synthesis [[paper]](https://arxiv.org/pdf/1807.10264.pdf) [[code]](https://github.com/google/layered-scene-inference) [[project page]](https://shubhtuls.github.io/lsi/) :leaves:
 - `[SIGGRAPH Posters 2011]` Layered Photo Pop-Up [[poster]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-poster.pdf) [[abstract]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-abstract.pdf) [[project page]](https://richardt.name/publications/photopopup/)
 
+**3D Photography Videos**
+- `[arXiv 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
+- `[arXiv 2023]` 3D Video Loops from Asynchronous Input [[paper]](https://arxiv.org/abs/2303.05312) [[code]](https://github.com/limacv/VideoLoop3D) [[project page]](https://limacv.github.io/VideoLoop3D_web/) :airplane:
+- `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
+
 ## Binocular-Input Novel View Synthesis
 Not a complete list.
 - `[CVPR 2022]` 3D Moments from Near-Duplicate Photos [[paper]](https://3d-moments.github.io/static/pdfs/3d_moments.pdf) [[code]](https://github.com/google-research/3d-moments) [[project page]](https://3d-moments.github.io/) :leaves::cloud:
@@ -60,6 +65,7 @@ Animating landscape: running water, moving clouds, etc.
 
 ## Some Other Papers
 Some other interesting papers for novel view synthesis or cinemagraph.
+- `[CVPR 2023]` Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask [[paper]](https://arxiv.org/abs/2302.07224) [[project page]](https://zju3dv.github.io/paintingnature/) :gem:
 - `[arXiv 2022]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
 - `[ECCV 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
 - `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)

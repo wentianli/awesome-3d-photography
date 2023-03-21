@@ -11,8 +11,8 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 * :cloud: Point Cloud
 * :space_invader: Voxel
 
-## 3D Photography from a Single Image
-Here I include the papers for novel view synthesis with **a single input image** based on **3D geometry**.
+## 3D Photography
+Novel view synthesis with **a single input image** based on **3D geometry**.
 - `[CVPR 2023]` Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction [[paper]](https://arxiv.org/abs/2303.05937) :airplane:
 - `[ECCV 2022]` InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [[paper]](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf) [[project page]](https://infinite-nature-zero.github.io/)
 - `[SIGGRAPH 2022]` Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images [[paper]](https://arxiv.org/pdf/2205.11733.pdf) [[code]](https://github.com/yxuhan/AdaMPI) [[project page]](https://yxuhan.github.io/AdaMPI/) :airplane:
@@ -36,21 +36,33 @@ Here I include the papers for novel view synthesis with **a single input image**
 - `[ECCV 2018]` Layer-structured 3D Scene Inference via View Synthesis [[paper]](https://arxiv.org/pdf/1807.10264.pdf) [[code]](https://github.com/google/layered-scene-inference) [[project page]](https://shubhtuls.github.io/lsi/) :leaves:
 - `[SIGGRAPH Posters 2011]` Layered Photo Pop-Up [[poster]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-poster.pdf) [[abstract]](https://richardt.name/publications/photopopup/LayeredPhotoPopup-abstract.pdf) [[project page]](https://richardt.name/publications/photopopup/)
 
-**3D Photography Videos**
-- `[arXiv 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
-- `[arXiv 2023]` 3D Video Loops from Asynchronous Input [[paper]](https://arxiv.org/abs/2303.05312) [[code]](https://github.com/limacv/VideoLoop3D) [[project page]](https://limacv.github.io/VideoLoop3D_web/) :airplane:
-- `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
-
-## Binocular-Input Novel View Synthesis
-Not a complete list.
+**Binocular-input** novel view synthesis. This list is not exhaustive.
 - `[CVPR 2022]` 3D Moments from Near-Duplicate Photos [[paper]](https://3d-moments.github.io/static/pdfs/3d_moments.pdf) [[code]](https://github.com/google-research/3d-moments) [[project page]](https://3d-moments.github.io/) :leaves::cloud:
 - `[CVPR 2022]` Stereo Magnification with Multi-Layer Images [[paper]](https://arxiv.org/pdf/2201.05023.pdf) [[code]](https://github.com/SamsungLabs/StereoLayers) [[project page]](https://samsunglabs.github.io/StereoLayers/) :airplane::gem:
 - `[ICCV 2019]` Extreme View Synthesis [[paper]](https://arxiv.org/pdf/1812.04777) [[code]](https://github.com/NVlabs/extreme-view-synth)
 - `[CVPR 2019]` Pushing the Boundaries of View Extrapolation with Multiplane Images [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdf) :airplane:
 - `[SIGGRAPH 2018]` Stereo Magnification: Learning View Synthesis using Multiplane Images [[paper]](https://dl.acm.org/doi/pdf/10.1145/3197517.3201323) [[code]](https://github.com/google/stereo-magnification) [[project page]](https://tinghuiz.github.io/projects/mpi/) :airplane:
 
-## Landscape Animation
-Animating landscape: running water, moving clouds, etc.
+3D photography of other kinds, such as relying on multi-view input, using modalities other than natural images, using generative methods without explicit 3D modeling.
+- `[CVPR 2023]` Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask [[paper]](https://arxiv.org/abs/2302.07224) [[project page]](https://zju3dv.github.io/paintingnature/) :gem:
+- `[arXiv 2022]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
+- `[ECCV 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
+- `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)
+- `[ICCV 2021]` Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper]](https://arxiv.org/pdf/2104.07652.pdf) [[code]](https://github.com/CompVis/geometry-free-view-synthesis) [[project page]](https://compvis.github.io/geometry-free-view-synthesis/)
+- `[ICCV 2021]` Learning to Stylize Novel Views [[paper]](https://arxiv.org/pdf/2105.13509.pdf) [[code]](https://github.com/hhsinping/stylescene) [[project page]](https://hhsinping.github.io/3d_scene_stylization/) :cloud:
+- `[ICCV 2021]` Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[paper]](https://arxiv.org/pdf/2104.00677.pdf) [[code]](https://github.com/ajayjain/DietNeRF) [[project page]](https://www.ajayj.com/dietnerf) :taxi:
+- `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)
+
+## 3D Photography Videos
+3D Photography with dynamics. The works that use a single image as input:
+- `[arXiv 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
+- `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
+
+The works with multi-view input:
+- `[CVPR 2023]` 3D Video Loops from Asynchronous Input [[paper]](https://arxiv.org/abs/2303.05312) [[code]](https://github.com/limacv/VideoLoop3D) [[project page]](https://limacv.github.io/VideoLoop3D_web/) :airplane:
+
+## Cinemagraph (Dynamics or Motion Generation)
+**Landscape Animation**: running water, moving clouds, etc.
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[arXiv 2022]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
 - `[arXiv 2022]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
@@ -64,21 +76,12 @@ Animating landscape: running water, moving clouds, etc.
 - `[SIGGRAPH Asia 2019]` Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis [[paper]](https://arxiv.org/pdf/1910.07192.pdf) [[code]](https://github.com/endo-yuki-t/Animating-Landscape) [[project page]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
-## Some Other Papers
-Some other interesting papers for novel view synthesis or cinemagraph.
+Other papers.
 - `[arXiv 2023]` Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images [[paper]](https://arxiv.org/abs/2303.08639)
-- `[CVPR 2023]` Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask [[paper]](https://arxiv.org/abs/2302.07224) [[project page]](https://zju3dv.github.io/paintingnature/) :gem:
-- `[arXiv 2022]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
-- `[ECCV 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
-- `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)
-- `[ICCV 2021]` Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper]](https://arxiv.org/pdf/2104.07652.pdf) [[code]](https://github.com/CompVis/geometry-free-view-synthesis) [[project page]](https://compvis.github.io/geometry-free-view-synthesis/)
 - `[ICCV 2021]` iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis [[paper]](https://arxiv.org/pdf/2107.02790.pdf) [[code]](https://github.com/CompVis/ipoke) [[project page]](https://compvis.github.io/ipoke/)
-- `[ICCV 2021]` Learning to Stylize Novel Views [[paper]](https://arxiv.org/pdf/2105.13509.pdf) [[code]](https://github.com/hhsinping/stylescene) [[project page]](https://hhsinping.github.io/3d_scene_stylization/) :cloud:
-- `[ICCV 2021]` Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[paper]](https://arxiv.org/pdf/2104.00677.pdf) [[code]](https://github.com/ajayjain/DietNeRF) [[project page]](https://www.ajayj.com/dietnerf) :taxi:
 - `[CVPR 2021]` Stochastic Image-to-Video Synthesis Using cINNs [[paper]](https://arxiv.org/pdf/2105.04551.pdf) [[code]](https://github.com/CompVis/image2video-synthesis-using-cINNs) [[project page]](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 - `[CVPR 2021]` Understanding Object Dynamics for Interactive Image-to-Video Synthesis [[paper]](https://arxiv.org/pdf/2106.11303.pdf) [[code]](https://github.com/CompVis/interactive-image2video-synthesis) [[project page]](https://compvis.github.io/interactive-image2video-synthesis/)
 - `[SIGGRAPH 2021]` Endless Loops: Detecting and Animating Periodic Patterns in Still Images [[paper]](https://storage.googleapis.com/ltx-public-images/Endless_Loops__Detecting_and_animating_periodic_patterns_in_still_images.pdf) [[project page]](https://pub.res.lightricks.com/endless-loops/)
 - `[ECCV 2018]` Flow-Grounded Spatial-Temporal Video Prediction from Still Images [[paper]](https://arxiv.org/pdf/1807.09755.pdf) [[code]](https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction)
 - `[CVPR 2018]` Controllable Video Generation with Sparse Trajectories [[paper]](https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1575.pdf) [[code]](https://github.com/zekunhao1995/ControllableVideoGen) [[project page]](http://www.cs.cornell.edu/~xhuang/publication/videogen/)
 - `[CVPR 2018]` MoCoGAN: Decomposing Motion and Content for Video Generation [[paper]](https://arxiv.org/pdf/1707.04993.pdf) [[code]](https://github.com/sergeytulyakov/mocogan)
-- `[ICCV 2017]` Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Personalized_Cinemagraphs_Using_ICCV_2017_paper.pdf)

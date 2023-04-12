@@ -14,6 +14,7 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
 - `[CVPR 2023]` Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction [[paper]](https://arxiv.org/abs/2303.05937) :airplane:
+- `[TIP 2023]` Single-view Neural Radiance Fields with Depth Teacher [[paper]](https://arxiv.org/abs/2303.09952) :taxi:
 - `[ECCV 2022]` InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [[paper]](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf) [[project page]](https://infinite-nature-zero.github.io/)
 - `[SIGGRAPH 2022]` Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images [[paper]](https://arxiv.org/pdf/2205.11733.pdf) [[code]](https://github.com/yxuhan/AdaMPI) [[project page]](https://yxuhan.github.io/AdaMPI/) :airplane:
 - `[CVPR 2022]` Efficient Geometry-aware 3D Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/2112.07945.pdf) [[code]](https://github.com/NVlabs/eg3d) [[project page]](https://matthew-a-chan.github.io/EG3D/)
@@ -65,7 +66,7 @@ The works with multi-view input:
 **Landscape Animation**: running water, moving clouds, etc.
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[arXiv 2022]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
-- `[arXiv 2022]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
+- `[ICLR 2023]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
 - `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
 - `[CVPR 2022]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf) [[project page]](https://controllable-cinemagraphs.github.io/)
 - `[CVPR 2022]` StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 [[paper]](https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf) [[code]](https://github.com/universome/stylegan-v) [[project page]](https://universome.github.io/stylegan-v)

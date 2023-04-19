@@ -13,6 +13,7 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
+- `[arXiv 2023]` Generative Novel View Synthesis with 3D-Aware Diffusion Models [[paper]](https://arxiv.org/abs/2304.02602) [[project page]](https://nvlabs.github.io/genvs/)
 - `[CVPR 2023]` Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction [[paper]](https://arxiv.org/abs/2303.05937) :airplane:
 - `[TIP 2023]` Single-view Neural Radiance Fields with Depth Teacher [[paper]](https://arxiv.org/abs/2303.09952) :taxi:
 - `[ECCV 2022]` InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [[paper]](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf) [[project page]](https://infinite-nature-zero.github.io/)

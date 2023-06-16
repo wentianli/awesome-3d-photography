@@ -79,7 +79,9 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
-- `[arXiv 2023]` Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images [[paper]](https://arxiv.org/abs/2303.08639)
+- `[arXiv 2023]` Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[paper]](https://arxiv.org/abs/2304.14404) [[project page]](https://tsaishien-chen.github.io/MCDiff/)
+- `[CVPR 2023]` Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[paper]](https://arxiv.org/abs/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)
+- `[CVPR 2023]` Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images [[paper]](https://arxiv.org/abs/2303.08639)
 - `[ICCV 2021]` iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis [[paper]](https://arxiv.org/pdf/2107.02790.pdf) [[code]](https://github.com/CompVis/ipoke) [[project page]](https://compvis.github.io/ipoke/)
 - `[CVPR 2021]` Stochastic Image-to-Video Synthesis Using cINNs [[paper]](https://arxiv.org/pdf/2105.04551.pdf) [[code]](https://github.com/CompVis/image2video-synthesis-using-cINNs) [[project page]](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 - `[CVPR 2021]` Understanding Object Dynamics for Interactive Image-to-Video Synthesis [[paper]](https://arxiv.org/pdf/2106.11303.pdf) [[code]](https://github.com/CompVis/interactive-image2video-synthesis) [[project page]](https://compvis.github.io/interactive-image2video-synthesis/)

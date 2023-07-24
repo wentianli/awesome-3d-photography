@@ -47,7 +47,7 @@ Novel view synthesis with **a single input image** based on **3D geometry**.
 
 3D photography of other kinds, such as relying on multi-view input, using modalities other than natural images, using generative methods without explicit 3D modeling.
 - `[CVPR 2023]` Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask [[paper]](https://arxiv.org/abs/2302.07224) [[project page]](https://zju3dv.github.io/paintingnature/) :gem:
-- `[arXiv 2022]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
+- `[ICLR 2023]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
 - `[ECCV 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
 - `[CVPR 2022]` Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image [[paper]](https://arxiv.org/abs/2203.09457) [[code]](https://github.com/xrenaa/Look-Outside-Room) [[project page]](https://xrenaa.github.io/look-outside-room/)
 - `[ICCV 2021]` Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper]](https://arxiv.org/pdf/2104.07652.pdf) [[code]](https://github.com/CompVis/geometry-free-view-synthesis) [[project page]](https://compvis.github.io/geometry-free-view-synthesis/)
@@ -66,7 +66,7 @@ The works with multi-view input:
 ## Cinemagraph (Dynamics or Motion Generation)
 **Landscape Animation**: running water, moving clouds, etc.
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
-- `[arXiv 2022]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
+- `[ICCV 2023]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
 - `[ICLR 2023]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
 - `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
 - `[CVPR 2022]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf) [[project page]](https://controllable-cinemagraphs.github.io/)

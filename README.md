@@ -13,6 +13,7 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
+- `[ICCV 2023]` LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference [[paper]](https://arxiv.org/abs/2307.12217)
 - `[arXiv 2023]` Generative Novel View Synthesis with 3D-Aware Diffusion Models [[paper]](https://arxiv.org/abs/2304.02602) [[project page]](https://nvlabs.github.io/genvs/)
 - `[CVPR 2023]` Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction [[paper]](https://arxiv.org/abs/2303.05937) :airplane:
 - `[TIP 2023]` Single-view Neural Radiance Fields with Depth Teacher [[paper]](https://arxiv.org/abs/2303.09952) :taxi:
@@ -46,6 +47,7 @@ Novel view synthesis with **a single input image** based on **3D geometry**.
 - `[SIGGRAPH 2018]` Stereo Magnification: Learning View Synthesis using Multiplane Images [[paper]](https://dl.acm.org/doi/pdf/10.1145/3197517.3201323) [[code]](https://github.com/google/stereo-magnification) [[project page]](https://tinghuiz.github.io/projects/mpi/) :airplane:
 
 3D photography of other kinds, such as relying on multi-view input, using modalities other than natural images, using generative methods without explicit 3D modeling.
+- `[SIGGRAPH 2023]` ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields [[paper]](https://arxiv.org/abs/2305.00041) [[code]](https://github.com/NagabhushanSN95/ViP-NeRF) [[project page]](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)
 - `[CVPR 2023]` Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask [[paper]](https://arxiv.org/abs/2302.07224) [[project page]](https://zju3dv.github.io/paintingnature/) :gem:
 - `[ICLR 2023]` Make-A-Video: Text-to-Video Generation without Text-Video Data [[paper]](https://arxiv.org/abs/2209.14792) [[project page]](https://make-a-video.github.io/)
 - `[ECCV 2022]` SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image [[paper]](https://arxiv.org/pdf/2204.00928.pdf) [[code]](https://github.com/Ir1d/SinNeRF) [[project page]](https://vita-group.github.io/SinNeRF/) :taxi:
@@ -57,6 +59,7 @@ Novel view synthesis with **a single input image** based on **3D geometry**.
 
 ## 3D Photography Videos
 3D Photography with dynamics. The works that use a single image as input:
+- `[ACM MM 2023]` Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image [[paper]](https://arxiv.org/abs/2308.10257)
 - `[arXiv 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
 - `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
 
@@ -65,6 +68,7 @@ The works with multi-view input:
 
 ## Cinemagraph (Dynamics or Motion Generation)
 **Landscape Animation**: running water, moving clouds, etc.
+- `[2023]` Synthesizing Artistic Cinemagraphs from Text [[code]](https://github.com/text2cinemagraph/artistic-cinemagraph) [[project page]](https://text2cinemagraph.github.io/website/)
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[ICCV 2023]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
 - `[ICLR 2023]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
@@ -79,6 +83,7 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
+- `[arXiv 2023]` DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[paper]](https://arxiv.org/abs/2308.08089) [[project page]](https://www.microsoft.com/en-us/research/project/dragnuwa/)
 - `[arXiv 2023]` Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[paper]](https://arxiv.org/abs/2304.14404) [[project page]](https://tsaishien-chen.github.io/MCDiff/)
 - `[CVPR 2023]` Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[paper]](https://arxiv.org/abs/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)
 - `[CVPR 2023]` Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images [[paper]](https://arxiv.org/abs/2303.08639)

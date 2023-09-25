@@ -73,7 +73,7 @@ The works with multi-view input:
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[ICCV 2023]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
 - `[ICLR 2023]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
-- `[arXiv 2022]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
+- `[ICCV 2023]` Simulating Fluids in Real-World Still Images [[paper]](https://arxiv.org/pdf/2204.11335.pdf) [[code]](https://github.com/simon3dv/SLR-SFS) [[project page]](https://slr-sfs.github.io/)
 - `[CVPR 2022]` Controllable Animation of Fluid Elements in Still Images [[paper]](https://arxiv.org/pdf/2112.03051v1.pdf) [[project page]](https://controllable-cinemagraphs.github.io/)
 - `[CVPR 2022]` StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 [[paper]](https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf) [[code]](https://github.com/universome/stylegan-v) [[project page]](https://universome.github.io/stylegan-v)
 - `[CVPR 2021]` Animating Pictures with Eulerian Motion Fields [[paper]](https://eulerian.cs.washington.edu/animating_pictures_2020.pdf) [[project page]](https://eulerian.cs.washington.edu/)
@@ -84,6 +84,7 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
+- `[arXiv 2023]` Generative Image Dynamics [[paper]](https://arxiv.org/abs/2309.07906) [[project page]](https://generative-dynamics.github.io/)
 - `[arXiv 2023]` DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[paper]](https://arxiv.org/abs/2308.08089) [[project page]](https://www.microsoft.com/en-us/research/project/dragnuwa/)
 - `[arXiv 2023]` Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[paper]](https://arxiv.org/abs/2304.14404) [[project page]](https://tsaishien-chen.github.io/MCDiff/)
 - `[CVPR 2023]` Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[paper]](https://arxiv.org/abs/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)

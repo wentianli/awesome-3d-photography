@@ -13,6 +13,8 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
+- `[TOG 2023]` ReShader: View-Dependent Highlights for Single Image View-Synthesis [[paper]](https://arxiv.org/abs/2309.10689) [[code]](https://github.com/avinashpaliwal/ReShader) [[project page]](https://people.engr.tamu.edu/nimak/Papers/SIGAsia2023_Reshader/index.html)
+- `[NeurIPS 2023]` Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision [[paper]](https://diffusion-with-forward-models.github.io/diffusion-forward-paper.pdf) [[code]](https://github.com/ayushtewari/DFM/) [[project page]](https://diffusion-with-forward-models.github.io/)
 - `[ICCV 2023]` Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion [[paper]](https://jianbojiao.com/pdfs/iccv23_diffuse3d.pdf) [[code]](https://github.com/yutaojiang1/Diffuse3D) :leaves:
 - `[ICCV 2023]` LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference [[paper]](https://arxiv.org/abs/2307.12217) :airplane:
 - `[arXiv 2023]` Generative Novel View Synthesis with 3D-Aware Diffusion Models [[paper]](https://arxiv.org/abs/2304.02602) [[project page]](https://nvlabs.github.io/genvs/)
@@ -69,7 +71,7 @@ The works with multi-view input:
 
 ## Cinemagraph (Dynamics or Motion Generation)
 **Landscape Animation**: running water, moving clouds, etc.
-- `[2023]` Synthesizing Artistic Cinemagraphs from Text [[code]](https://github.com/text2cinemagraph/artistic-cinemagraph) [[project page]](https://text2cinemagraph.github.io/website/)
+- `[TOG 2023]` Text-Guided Synthesis of Eulerian Cinemagraphs [[paper]](https://arxiv.org/abs/2307.03190) [[code]](https://github.com/text2cinemagraph/artistic-cinemagraph) [[project page]](https://text2cinemagraph.github.io/website/)
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[ICCV 2023]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
 - `[ICLR 2023]` Towards Smooth Video Composition [[paper]](https://arxiv.org/abs/2212.07413) [[project page]](https://genforce.github.io/StyleSV)
@@ -84,6 +86,7 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
+- `[arXiv 2023]` DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[paper]](https://arxiv.org/abs/2310.12190) [[code]](https://github.com/AILab-CVC/VideoCrafter)
 - `[arXiv 2023]` Generative Image Dynamics [[paper]](https://arxiv.org/abs/2309.07906) [[project page]](https://generative-dynamics.github.io/)
 - `[arXiv 2023]` DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[paper]](https://arxiv.org/abs/2308.08089) [[project page]](https://www.microsoft.com/en-us/research/project/dragnuwa/)
 - `[arXiv 2023]` Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[paper]](https://arxiv.org/abs/2304.14404) [[project page]](https://tsaishien-chen.github.io/MCDiff/)

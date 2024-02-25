@@ -13,6 +13,8 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
+- `[arXiv 2023]` Novel View Synthesis with View-Dependent Effects from a Single Image [[paper]](https://arxiv.org/abs/2312.08071) [[project page]](https://kaist-viclab.github.io/monovde-site/)
+- `[SA 2023]` SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images [[paper]](https://doi.org/10.1145/3610548.3618155) [[code]](https://github.com/TrickyGo/SinMPI) :leaves:
 - `[TOG 2023]` ReShader: View-Dependent Highlights for Single Image View-Synthesis [[paper]](https://arxiv.org/abs/2309.10689) [[code]](https://github.com/avinashpaliwal/ReShader) [[project page]](https://people.engr.tamu.edu/nimak/Papers/SIGAsia2023_Reshader/index.html)
 - `[NeurIPS 2023]` Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision [[paper]](https://diffusion-with-forward-models.github.io/diffusion-forward-paper.pdf) [[code]](https://github.com/ayushtewari/DFM/) [[project page]](https://diffusion-with-forward-models.github.io/)
 - `[ICCV 2023]` Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion [[paper]](https://jianbojiao.com/pdfs/iccv23_diffuse3d.pdf) [[code]](https://github.com/yutaojiang1/Diffuse3D) :leaves:
@@ -86,6 +88,8 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
+- `[arXiv 2024]` Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling [[paper]](https://arxiv.org/abs/2401.15977) [[project page]](https://xiaoyushi97.github.io/Motion-I2V/)
+- `[arXiv 2023]` LivePhoto: Real Image Animation with Text-guided Motion Control [[paper]](https://arxiv.org/abs/2312.02928) [[code]](https://github.com/XavierCHEN34/LivePhoto) [[project page]](https://xavierchen34.github.io/LivePhoto-Page/)
 - `[arXiv 2023]` DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[paper]](https://arxiv.org/abs/2310.12190) [[code]](https://github.com/AILab-CVC/VideoCrafter)
 - `[arXiv 2023]` Generative Image Dynamics [[paper]](https://arxiv.org/abs/2309.07906) [[project page]](https://generative-dynamics.github.io/)
 - `[arXiv 2023]` DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[paper]](https://arxiv.org/abs/2308.08089) [[project page]](https://www.microsoft.com/en-us/research/project/dragnuwa/)

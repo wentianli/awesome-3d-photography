@@ -65,14 +65,16 @@ Novel view synthesis with **a single input image** based on **3D geometry**.
 ## 3D Photography Videos
 3D Photography with dynamics. The works that use a single image as input:
 - `[ACM MM 2023]` Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image [[paper]](https://arxiv.org/abs/2308.10257) :leaves::cloud:
-- `[arXiv 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
+- `[IJCAI 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
 - `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
 
 The works with multi-view input:
+- `[arXiv 2024]` LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field [[paper]](https://arxiv.org/abs/2404.08966) [[code]](https://github.com/Pokerlishao/LoopGaussian) [[project page]](https://pokerlishao.github.io/LoopGaussian/) :cloud:
 - `[CVPR 2023]` 3D Video Loops from Asynchronous Input [[paper]](https://arxiv.org/abs/2303.05312) [[code]](https://github.com/limacv/VideoLoop3D) [[project page]](https://limacv.github.io/VideoLoop3D_web/) :airplane:
 
 ## Cinemagraph (Dynamics or Motion Generation)
 **Landscape Animation**: running water, moving clouds, etc.
+- `[CVPR 2024]` StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN [[paper]](https://arxiv.org/abs/2403.14186) [[code]](https://github.com/jeolpyeoni/StyleCineGAN) [[project page]](https://jeolpyeoni.github.io/stylecinegan_project/)
 - `[TOG 2023]` Text-Guided Synthesis of Eulerian Cinemagraphs [[paper]](https://arxiv.org/abs/2307.03190) [[code]](https://github.com/text2cinemagraph/artistic-cinemagraph) [[project page]](https://text2cinemagraph.github.io/website/)
 - `[SA 2022]` Water Simulation and Rendering from a Still Photograph [[paper]](https://dl.acm.org/doi/pdf/10.1145/3550469.3555415) [[project page]](https://rsugimoto.net/WaterAnimationProject/)
 - `[ICCV 2023]` DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models [[paper]](https://arxiv.org/abs/2211.12131) [[project page]](https://primecai.github.io/diffdreamer)
@@ -88,10 +90,12 @@ The works with multi-view input:
 - `[CVPR 2018]` Learning to Generate Time-lapse Videos Using Multi-stage Dynamic Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1709.07592.pdf) [[code]](https://github.com/weixiong-ur/mdgan) [[project page]](https://sites.google.com/site/whluoimperial/mdgan)
 
 Other papers.
+- `[arXiv 2024]` Explorative Inbetweening of Time and Space [[paper]](https://arxiv.org/abs/2403.14611) [[project page]](https://time-reversal.github.io/)
 - `[arXiv 2024]` Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling [[paper]](https://arxiv.org/abs/2401.15977) [[project page]](https://xiaoyushi97.github.io/Motion-I2V/)
+- `[arXiv 2023]` AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance [[paper]](https://arxiv.org/abs/2311.12886) [[code]](https://github.com/alibaba/animate-anything/) [[project page]](https://animationai.github.io/AnimateAnything/)
 - `[arXiv 2023]` LivePhoto: Real Image Animation with Text-guided Motion Control [[paper]](https://arxiv.org/abs/2312.02928) [[code]](https://github.com/XavierCHEN34/LivePhoto) [[project page]](https://xavierchen34.github.io/LivePhoto-Page/)
 - `[arXiv 2023]` DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[paper]](https://arxiv.org/abs/2310.12190) [[code]](https://github.com/AILab-CVC/VideoCrafter)
-- `[arXiv 2023]` Generative Image Dynamics [[paper]](https://arxiv.org/abs/2309.07906) [[project page]](https://generative-dynamics.github.io/)
+- `[CVPR 2024]` Generative Image Dynamics [[paper]](https://arxiv.org/abs/2309.07906) [[project page]](https://generative-dynamics.github.io/)
 - `[arXiv 2023]` DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[paper]](https://arxiv.org/abs/2308.08089) [[project page]](https://www.microsoft.com/en-us/research/project/dragnuwa/)
 - `[arXiv 2023]` Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[paper]](https://arxiv.org/abs/2304.14404) [[project page]](https://tsaishien-chen.github.io/MCDiff/)
 - `[CVPR 2023]` Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[paper]](https://arxiv.org/abs/2303.13744) [[code]](https://github.com/nihaomiao/CVPR23_LFDM)

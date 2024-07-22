@@ -10,9 +10,13 @@ Following [this repo](https://github.com/timzhang642/3D-Machine-Learning), I use
 * :taxi: Nerf
 * :cloud: Point Cloud
 * :space_invader: Voxel
+* ☃️ 3D Gaussian Splatting
 
 ## 3D Photography
 Novel view synthesis with **a single input image** based on **3D geometry**.
+- `[arXiv 2024]` GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping [[paper]](https://arxiv.org/abs/2405.17251) [[project page]](https://genwarp-nvs.github.io/) ☃️
+- `[CVPR 2024]` WonderJourney: Going from Anywhere to Everywhere [[paper]](https://arxiv.org/abs/2312.03884) [[code]](https://github.com/KovenYu/WonderJourney) [[project page]](https://kovenyu.com/wonderjourney/) :cloud:
+- `[CVPR 2024]` MultiDiff: Consistent Novel View Synthesis from a Single Image [[paper]](https://arxiv.org/abs/2406.18524v1) [[project page]](https://sirwyver.github.io/MultiDiff/)
 - `[arXiv 2023]` Novel View Synthesis with View-Dependent Effects from a Single Image [[paper]](https://arxiv.org/abs/2312.08071) [[project page]](https://kaist-viclab.github.io/monovde-site/)
 - `[SA 2023]` SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images [[paper]](https://doi.org/10.1145/3610548.3618155) [[code]](https://github.com/TrickyGo/SinMPI) :leaves:
 - `[TOG 2023]` ReShader: View-Dependent Highlights for Single Image View-Synthesis [[paper]](https://arxiv.org/abs/2309.10689) [[code]](https://github.com/avinashpaliwal/ReShader) [[project page]](https://people.engr.tamu.edu/nimak/Papers/SIGAsia2023_Reshader/index.html)
@@ -64,11 +68,13 @@ Novel view synthesis with **a single input image** based on **3D geometry**.
 
 ## 3D Photography Videos
 3D Photography with dynamics. The works that use a single image as input:
+- `[arXiv 2024]` VividDream: Generating 3D Scene with Ambient Dynamics [[paper]](https://vivid-dream-4d.github.io/assets/paper.pdf) [[project page]](https://vivid-dream-4d.github.io/) :cloud:☃️
 - `[ACM MM 2023]` Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image [[paper]](https://arxiv.org/abs/2308.10257) :leaves::cloud:
 - `[IJCAI 2023]` Learning 3D Photography Videos via Self-supervised Diffusion on Single Images [[paper]](https://arxiv.org/abs/2302.10781)
 - `[CVPR 2023]` 3D Cinemagraphy from a Single Image [[paper]](https://arxiv.org/abs/2303.05724) [[code]](https://github.com/xingyi-li/3d-cinemagraphy) [[project page]](https://xingyi-li.github.io/3d-cinemagraphy/) :leaves::cloud:
 
-The works with multi-view input:
+The works with multi-view or video input:
+- `[SIGGRAPH 2024]` Modeling Ambient Scene Dynamics for Free-view Synthesis [[paper]](https://arxiv.org/abs/2406.09395) [[project page]](https://ambientgaussian.github.io/) ☃️
 - `[arXiv 2024]` LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field [[paper]](https://arxiv.org/abs/2404.08966) [[code]](https://github.com/Pokerlishao/LoopGaussian) [[project page]](https://pokerlishao.github.io/LoopGaussian/) :cloud:
 - `[CVPR 2023]` 3D Video Loops from Asynchronous Input [[paper]](https://arxiv.org/abs/2303.05312) [[code]](https://github.com/limacv/VideoLoop3D) [[project page]](https://limacv.github.io/VideoLoop3D_web/) :airplane:
 
